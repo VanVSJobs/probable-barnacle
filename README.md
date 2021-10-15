@@ -1,1 +1,1 @@
-face recognition with opencv
+simple fact detection
